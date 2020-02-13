@@ -21,6 +21,7 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
+		9B6E0D0623F5BBD100694FA3 /* CoordinatorContextMenuInteractionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B6E0D0523F5BBD100694FA3 /* CoordinatorContextMenuInteractionDelegate.swift */; };
 		OBJ_244 /* AddRef.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_74 /* AddRef.swift */; };
 		OBJ_245 /* Amb.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_75 /* Amb.swift */; };
 		OBJ_246 /* AnonymousDisposable.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_76 /* AnonymousDisposable.swift */; };
@@ -288,6 +289,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9B6E0D0523F5BBD100694FA3 /* CoordinatorContextMenuInteractionDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoordinatorContextMenuInteractionDelegate.swift; sourceTree = "<group>"; };
 		OBJ_10 /* AnyCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyCoordinator.swift; sourceTree = "<group>"; };
 		OBJ_100 /* ConcurrentDispatchQueueScheduler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcurrentDispatchQueueScheduler.swift; sourceTree = "<group>"; };
 		OBJ_101 /* ConcurrentMainScheduler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcurrentMainScheduler.swift; sourceTree = "<group>"; };
@@ -883,6 +885,7 @@
 				OBJ_32 /* SplitTransition.swift */,
 				OBJ_33 /* StaticTransitionAnimation.swift */,
 				OBJ_34 /* StrongRouter.swift */,
+				9B6E0D0523F5BBD100694FA3 /* CoordinatorContextMenuInteractionDelegate.swift */,
 				OBJ_35 /* TabBarAnimationDelegate.swift */,
 				OBJ_36 /* TabBarCoordinator.swift */,
 				OBJ_37 /* TabBarTransition.swift */,
@@ -1294,6 +1297,7 @@
 				OBJ_448 /* UnownedErased.swift in Sources */,
 				OBJ_449 /* ViewCoordinator.swift in Sources */,
 				OBJ_450 /* WeakErased+Router.swift in Sources */,
+				9B6E0D0623F5BBD100694FA3 /* CoordinatorContextMenuInteractionDelegate.swift in Sources */,
 				OBJ_451 /* WeakErased.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
